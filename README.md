@@ -1,5 +1,5 @@
 ### Howdy! 👋 🔭
-I'm a professional Front End Developer. My preferred stack is [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/), [Redis](https://redis.io/).
+I'm a professional Front End Developer. My preferred stack is [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [React](https://reactjs.org/), [Styled-Components](https://styled-components.com/), [Redis](https://redis.io/).You can send me  a email here: [samueltirtawidjaja@gmail.com](mailto:samueltirtawidjaja@gmail.com).
 
 <!--
 **Saoming/Saoming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
